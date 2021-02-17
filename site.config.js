@@ -7,14 +7,14 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'notlar.im',
+  domain: 'notlar.im',
+  author: 'Buğra Canata',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: 'Buğra Canata Kişisel Blog',
+  socialImageTitle: 'notlar.im',
+  socialImageSubtitle: 'Merhaba Dünya! 👋',
 
   // social usernames (optional)
   twitter: 'transitive_bs',
